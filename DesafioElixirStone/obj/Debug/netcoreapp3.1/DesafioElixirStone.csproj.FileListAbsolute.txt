@@ -1,0 +1,13 @@
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.exe
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.deps.json
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.runtimeconfig.json
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.runtimeconfig.dev.json
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.dll
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\bin\Debug\netcoreapp3.1\DesafioElixirStone.pdb
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.csprojAssemblyReference.cache
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.AssemblyInfoInputs.cache
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.AssemblyInfo.cs
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.csproj.CoreCompileInputs.cache
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.dll
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.pdb
+C:\Cursos\Desafio-Stone\DesafioElixirStone\DesafioElixirStone\obj\Debug\netcoreapp3.1\DesafioElixirStone.genruntimeconfig.cache
